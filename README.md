@@ -1,6 +1,6 @@
 ## Create rendering for Drag&Drop exercises:
 
-This App allows users to complete a fill-in-the-blank sentence by dragging and dropping answer options into the gaps. The app checks the user's answers and displays the result when the "Check Answer" button is clicked.
+This drag-and-drop exercise App built with React and the react-dnd library allows users to complete a fill-in-the-blank sentence by dragging and dropping answer options into the gaps. The app checks the user's answers and displays the result when the "Check Answer" button is clicked.
 
 In the project directory, you can run:
 
